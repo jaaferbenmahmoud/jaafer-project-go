@@ -1,0 +1,201 @@
+
+
+*{margin: 0;
+    padding: 0;
+
+
+}
+
+
+.nav{overflow:hidden;background-color: rgb(21, 22, 22);
+ ;
+ 
+}
+#om{
+border:  solid rgb(158, 30, 30);
+margin-right: 500PX;
+padding-left: 20PX;
+ text-align: 30PX;
+ line-height: 30PX;
+
+
+
+}
+
+
+
+.nav a{float: left;
+    color: rgb(103, 103, 19);
+    text-align: center;
+    padding: 20px 14px ;
+    text-decoration: none;
+    width: 100px;
+    font-size: 30PX;
+font-weight: bold;
+padding-top:30PX ;
+padding-left: 3PX;
+padding-bottom: ;
+padding-right: ;
+margin-left: ;
+justify-content: space-between;
+display: ;
+
+}
+.nav a:hover{
+    color: rgb(122, 25, 8);
+    background-color: rgb(45, 39, 39);
+    .nav
+}
+
+
+.nav b{
+
+    color: rgb(247, 243, 243);
+    float: right;
+    font-size: 30PX;
+    ;
+    margin-top:25PX ;
+    margin-right: 20PX;
+
+}
+.nav a img{
+    width: 50PX;
+    height: 30PX;
+    margin-right: 40PX;
+}
+.aboutme h1{color: rgb(203, 63, 63);
+margin-left: 450px;
+
+}
+.aboutme P{
+color: rgb(197, 197, 42);
+margin-left:480px ;
+margin-top:20PX ;
+font-weight: bold;
+background-color: rgba(91, 22, 91, 0.59);
+width: 100PX;
+font-size: 50PX;
+}
+.aboutmyjob ul li {color: brown;
+margin-left: 20PX;
+mar
+
+/*work and media*/
+ 
+}
+.media img{width: 220PX;
+    height: 120PX;
+    padding:5PX 30PX  ;
+    }
+    .media img{
+margin-left: 200PX;
+
+
+    }
+.video h1{color: rgb(34, 34, 10);position: stati;font-size: 40PX;
+margin-left: 390PX;  font-weight: 300PX;
+margin-top: 40PX;}
+    
+    .video video{
+margin-left: 450PX;
+ 
+
+    }
+    .video p{
+font-size: 20PX;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    /*resume section*/
+.resume select{
+font-size: larger;
+margin-top: 40PX;
+
+}
+.resume select:hover{
+
+    color: rgb(246, 244, 248);
+    background-color: rgb(50, 30, 34);
+}
+.footerabout{
+font-size: 40PX;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 200PX;
+margin-left: 200PX;
+overflow: hidden;background-color: rgb(220, 245, 235);
+font-size:
+text-decoration none;}
+
+
+
+
+
+
+@media(max-width: 700px   )
+{
+.nav a{color: rgb(123, 29, 29);
+
+float: none;
+display:flex ;
+color: aquamarine
+
+}
+.video{
+width: 200PX;
+
+}
+.video h1{text-align: left;
+    BO
+   
+
+}
+.video h1{
+color: rgb(69, 150, 123);
+font-size: 50PX;
+margin-bottom:300PX;
+margin-left: 100PX;
+font-weight: 200;
+
+}
+
+
+h1{color: rgb(149, 31, 31);}
+
+}
+h1{border: 10PX  solid black;
+;
+border-radius: 20PX;
+margin-left: 200PX;
+margin-right: 325PX;
+}
+.qq  {
+
+display: flex;
+font-size: 30PX;
+justify-content: space-around;
+margin-left: 30PX;
+margin-right: ;
+}
+ul li {
+
+
+    float: left;
+    color: rgb(103, 103, 19);
+}
+
+
+  
+.test  {
+    ;
+    width: 200px;
+    height: 50px;
+    border: 1px solid red;
+ display: inline-block;
+padding: ;  }
+.test li{ display: inline-block;
+padding: 20PX;
+
+margin-bottom: ;}
+.test li a{color: blueviolet;
+    ;
+}
